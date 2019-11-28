@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FreeChat</string>
+    <string name="send_button">Send</string>
+    <string name="discover_button">Discover</string>
+    <string name="on_off_button">Wifi On</string>
+    <string name="message">Sample Message</string>
+    <string name="connection_status">Press the discover button to search for devices</string>
+
+    <string name="discover_menu_option">Discover</string>
+
+    <string name="successful_connection">Connected Successfully</string>
+
+    <string name="sample_sent_message">Sent Message</string>
+    <string name="sample_received_message">Received Message</string>
+</resources>
