@@ -1,1 +1,1 @@
-FreeChat is an android application that lets to chat with another device withoout internet!
+FreeChat is an android application that lets you chat with another device without internet!
